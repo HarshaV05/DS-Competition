@@ -8,3 +8,8 @@ The task is to train a model that predicts whether unseen molecules have a fruit
 The dataset and code to load it will be provided on Canvas during the practical when a sizable number of students have completed the previous parts.
 
 Towards the end of the practical we will release a test set(test_data.json), from the same source, that allows you to verify your efforts.
+
+# Summary:
+
+I have used Naive Bayes, SVM and Neural networks(MLP) for this classification task. Hyperparameter tunig is applied and best paremeters for each algorithm are chosen using random and grid search techniques. I was able to obtain a best accuracy of around 78% with SVM algorithm. 
+
